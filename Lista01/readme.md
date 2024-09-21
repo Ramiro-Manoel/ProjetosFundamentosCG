@@ -47,3 +47,11 @@ DESAFIO: estrela
 ![pizza](Imagens/estrela.png)
 
 (fiz essas funções, pois achei que apenas limitando a quantidade de leitura do glDrawArrays não atingiria meu objetivo da forma que queria, pelo menos sem os conhecimentos de rotação dos objetos)
+
+## Exercício 07
+
+seguem as imagens e o link do código do exercício 06:
+
+[Código exercicio 07](Exercicio07.cpp)
+
+![espiral](Imagens/espiral.png)
