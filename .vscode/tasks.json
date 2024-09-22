@@ -9,6 +9,7 @@
                 "-g",
                 "-I${workspaceFolder}/Dependencies/GLAD/include", //GLAD
                 "-I${workspaceFolder}/Dependencies/glfw-3.4.bin.WIN64/include", //GLFWnclude"
+                "-I${workspaceFolder}/Dependencies/glm", //GLM
                 "${file}",
                 "${workspaceFolder}/glad.c",  //GLAD
                 "-o",
