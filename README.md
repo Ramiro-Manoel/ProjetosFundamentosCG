@@ -11,3 +11,6 @@ Nome: Ramiro dos Santos Manoel.
 
 ### Lista 2
 [Link para lista 02](Lista02/readme.md)
+
+### Jogo Grau A
+[Jogo Grau A](Jogo%20-%20Trabalho%20GA/readme.md)
