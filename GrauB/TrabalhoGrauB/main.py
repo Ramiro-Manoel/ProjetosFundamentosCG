@@ -14,9 +14,6 @@ screen.add_left_button("local image", screen.load_image)
 screen.add_left_button("webcam", screen.load_webcam)
 screen.add_left_button("save image", screen.save_image)
 
-#space_between_button = tkinter.Label(button_frame, text=" ", compound="left")
-#space_between_button.grid()
-
 screen.add_left_button("orginial image", lambda: screen.create_filter_window(filters.originial_image) )
 screen.add_left_button("gray scale", lambda: screen.create_filter_window(filters.gray_scale))
 screen.add_left_button("binarized", lambda: screen.create_filter_window(filters.binarized))
