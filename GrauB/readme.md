@@ -4,7 +4,9 @@
 
 O programa funciona com uma interface TkInter, para gerar imagens com filtro e adicionar sticker sobre elas. É possível utilizar webcam(apenas filtro) e imagens locais (filtro e sticker), além de poder salvar as edições nas imagens em uma imagem .png local.
 
-OBS: Execute o programa pelo `filter.py`
+OBS: 
+* Execute o programa pelo `filter.py`
+* É necessário ter as libs: pillow, opencv-python e tkinter
 
 ### Opções de imagem
 
