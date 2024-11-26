@@ -6,8 +6,6 @@ import filters
 import graphic_interface
 import select_sticker
 
-
-
 screen = graphic_interface.graphic_interface("Ramiro - App edição de imagens")
 
 screen.add_left_button("local image", screen.load_image)
