@@ -14,3 +14,6 @@ Nome: Ramiro dos Santos Manoel.
 
 ### Jogo Grau A
 [Jogo Grau A](Jogo%20-%20Trabalho%20GA/readme.md)
+
+### App de filtros e Sticker Grau B
+[App de filtros e Sticker Grau B](GrauB/readme.md)
